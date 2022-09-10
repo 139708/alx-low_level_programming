@@ -1,1 +1,1 @@
-Combination
+Print combination 3
